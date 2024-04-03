@@ -27,11 +27,11 @@ because that means I've completed something
 >I can cook steak and fried rice but I can't do anything else 
 
 For the future, some things I want
-- [ ]  seafood farm
-- [ ]  stable job 
-- [ ]  traveled all of Asia
-- [ ]  have clean skin
-- [ ]  have my own espresso machine
+- [ ] seafood farm
+- [ ] stable job 
+- [ ] traveled all of Asia
+- [ ] have clean skin
+- [ ] have my own espresso machine
 
 ### best songs
 1. [Angostura by Keshi](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3?si=728733ddf42a4545)
