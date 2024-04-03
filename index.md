@@ -9,6 +9,7 @@ git push
 because that means I've completed something
 
 [Skip here for Song recs](#best-songs)
+[Skip](https://github.com/Summerr12/CSE110Lab1/blob/VSbranch/index.md#favorite-songs)
 
 ### Outside of programming, I often:
 - Play volleyball
