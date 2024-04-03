@@ -18,10 +18,12 @@ because that means I've completed something
 - Cook
 
 >For volleyball, I'm an outside and have been playing since forever
+![volleyball gameplay](vball.jpeg)
 
 >I like to try new things so I always eat something new especially if I go to a place often
 
 >As for video games, I play both PC and Nintendo like Pokemon
+![pokemon gameplay](poke.jpeg)
 
 >I can cook steak and fried rice but I can't do anything else 
 
