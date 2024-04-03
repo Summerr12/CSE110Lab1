@@ -9,7 +9,6 @@ git push
 because that means I've completed something
 
 [Skip here for Song recs](#best-songs)
-[Skip](https://github.com/Summerr12/CSE110Lab1/blob/VSbranch/index.md#favorite-songs)
 
 ### Outside of programming, I often:
 - Play volleyball
@@ -28,13 +27,13 @@ because that means I've completed something
 >I can cook steak and fried rice but I can't do anything else 
 
 For the future, some things I want
-- [ ] seafood farm
-- [ ] stable job 
-- [ ] traveled all of Asia
-- [ ] have clean skin
-- [ ] have my own espresso machine
+- [ ]  seafood farm
+- [ ]  stable job 
+- [ ]  traveled all of Asia
+- [ ]  have clean skin
+- [ ]  have my own espresso machine
 
-### Favorite Songs
+### best songs
 1. [Angostura by Keshi](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3?si=728733ddf42a4545)
 2. [This is what autumn feels like by JVKE](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G?si=3f7cec71d1954dbf)
 3. [Snooze by SZA](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw?si=ce289afdd148446d)
